@@ -6,6 +6,8 @@
 
 ## 变量
 
+[习题](01-variable/questions.ipynb), [答案](01-variable/answer-questions.ipynb)
+
 ## 逻辑判断
 
 ## 循环
