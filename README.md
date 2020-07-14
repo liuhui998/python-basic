@@ -28,10 +28,7 @@
 
 [习题](06-class-object/questions.ipynb), [答案](06-class-object/answer-questions.ipynb)
 
-## 注释
-
-## 异常与调试
 
 ## 模块功能库
 
-## 用dingding发消息
+
