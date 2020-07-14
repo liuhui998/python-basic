@@ -15,7 +15,10 @@
 ## 循环
 
 [习题](03-loop/questions.ipynb), [答案](03-loop/answer-questions.ipynb)
+
 ## 列表/字典/元组
+
+[习题](04-list-dict/questions.ipynb), [答案](04-list-dict/answer-questions.ipynb)
 
 ## 函数
 
