@@ -23,7 +23,10 @@
 ## 函数
 
 [习题](05-function/questions.ipynb), [答案](05-function/answer-questions.ipynb)
+
 ## 类与对象
+
+[习题](06-class-object/questions.ipynb), [答案](06-class-object/answer-questions.ipynb)
 
 ## 注释
 
