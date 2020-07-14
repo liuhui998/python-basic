@@ -22,6 +22,7 @@
 
 ## 函数
 
+[习题](05-function/questions.ipynb), [答案](05-function/answer-questions.ipynb)
 ## 类与对象
 
 ## 注释
