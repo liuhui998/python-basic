@@ -10,6 +10,7 @@
 
 ## 逻辑判断
 
+[习题](02-logic/questions.ipynb), [答案](02-logic/answer-questions.ipynb)
 ## 循环
 
 ## 列表/字典/元组
