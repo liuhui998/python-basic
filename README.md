@@ -39,7 +39,14 @@
 
 ## 逻辑判断
 
-[习题](02-logic/questions.ipynb), [答案](02-logic/answer-questions.ipynb)
+* 熟悉各种条件判断语句
+* 开发季节判断机器人
+* 开发价格预警机器人
+* 开发考试评语机器人
+* 开发智能空调机器人
+
+[知识讲解与答案](02-logic/answer-questions.ipynb)，[空白练习题](02-logic/questions.ipynb)
+
 
 ## 循环
 
