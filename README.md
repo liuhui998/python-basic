@@ -72,7 +72,18 @@
 
 ## 列表/字典/元组
 
-[习题](04-list-dict/questions.ipynb), [答案](04-list-dict/answer-questions.ipynb)
+机器人的要处理的重复任务，必须要有一个地方进行存储；
+
+列表/字典/元组等数据结构就是用来存储各种复杂任务与数据的地方
+
+数据结构 + 算法（计算逻辑）= 程序
+
+* 智能排序机器人
+* 车位管理机器人
+* 自动询价机器人
+* 仓库数据管理机器人
+
+[知识讲解与答案](04-list-dict/answer-questions.ipynb)，[空白练习题](04-list-dict/questions.ipynb)
 
 ## 函数
 
