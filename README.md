@@ -87,11 +87,26 @@
 
 ## 函数
 
-[习题](05-function/questions.ipynb), [答案](05-function/answer-questions.ipynb)
+如果开发一个机器人时，没有别人写的功能函数，什么都要自己开发就会非常低效
+
+前面我们学会用函数，如 print 等，函数是对程序的一种封装，这里我们要学习怎么来写函数
+
+* 高级自动邮件机器人1
+* 小小数学家1
+* 小小数学家2
+
+[知识讲解与答案](05-function/answer-questions.ipynb)，[空白练习题](05-function/questions.ipynb)
+
 
 ## 类与对象
 
-[习题](06-class-object/questions.ipynb), [答案](06-class-object/answer-questions.ipynb)
+类是对更复杂功能的一种封装，你可以把 str 想像为一个类，lower() 是类里方法，对象可以类的一实例。
+
+使用别人开发的类，可以大大降低我们的开发工作量，在真实的工作中，我们很少自己来写类，但是要了解怎么写一个类。
+
+* 高级订单自动邮件/短信机器人
+
+[知识讲解与答案](06-class-object/answer-questions.ipynb)，[空白练习题](06-class-object/questions.ipynb)
 
 
 ## 模块功能库
