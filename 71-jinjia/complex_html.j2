@@ -1,0 +1,15 @@
+<h2>{{ title }}</h2>
+<ul>
+{% for president in presidents %}
+
+  <li>
+  {{ president["name"] }}, 
+  {% if president["live"]>70 %}
+  Live long
+  {% else %}
+  Live little short
+  {% endif %}  
+  </li>
+{% endfor %}
+</ul>
+
